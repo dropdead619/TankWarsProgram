@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).exe
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).deps.json
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).runtimeconfig.json
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).runtimeconfig.dev.json
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).dll
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\Day7 (Tanks).pdb
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\MyClassLib.dll
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\bin\Debug\netcoreapp3.1\MyClassLib.pdb
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).AssemblyInfo.cs
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).csproj.CopyComplete
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).dll
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).pdb
+C:\Users\User\source\repos\Day7 (Tanks)\Day7 (Tanks)\obj\Debug\netcoreapp3.1\Day7 (Tanks).genruntimeconfig.cache

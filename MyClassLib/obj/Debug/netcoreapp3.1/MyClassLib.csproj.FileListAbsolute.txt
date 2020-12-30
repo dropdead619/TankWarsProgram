@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\bin\Debug\netcoreapp3.1\MyClassLib.deps.json
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\bin\Debug\netcoreapp3.1\MyClassLib.dll
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\bin\Debug\netcoreapp3.1\MyClassLib.pdb
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.AssemblyInfo.cs
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.dll
+C:\Users\User\source\repos\Day7 (Tanks)\MyClassLib\obj\Debug\netcoreapp3.1\MyClassLib.pdb
